@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Self-Study\\C#\\16- C# OOP\\LibTimer\\LibTimer.csproj",
+      "projectUniqueName": "D:\\Self-Study\\C#\\C# Libs\\LibTimer\\LibTimer.csproj",
       "projectName": "LibTimer",
-      "projectPath": "D:\\Self-Study\\C#\\16- C# OOP\\LibTimer\\LibTimer.csproj",
+      "projectPath": "D:\\Self-Study\\C#\\C# Libs\\LibTimer\\LibTimer.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "D:\\Self-Study\\C#\\16- C# OOP\\LibTimer\\obj\\",
+      "outputPath": "D:\\Self-Study\\C#\\C# Libs\\LibTimer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,7 +32,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -47,11 +46,10 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
-        "framework": "net8.0",
         "targetAlias": "net8.0",
         "imports": [
           "net461",
@@ -67,15 +65,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.27, 8.0.27]"
+            "version": "[8.0.26, 8.0.26]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.27, 8.0.27]"
+            "version": "[8.0.26, 8.0.26]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.27, 8.0.27]"
+            "version": "[8.0.26, 8.0.26]"
           }
         ],
         "frameworkReferences": {
@@ -83,7 +81,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
