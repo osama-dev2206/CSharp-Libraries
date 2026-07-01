@@ -19,7 +19,7 @@ A comprehensive utility library for date and time calculations, including conver
   - Calculate months and years from days
   - Validate dates and birth dates
   - Calculate time differences between dates
-  - Handle leap years accurately
+  - Check string date
   - Extract dates from DateTimePicker
 
 ---
