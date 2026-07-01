@@ -1,4 +1,4 @@
-# DateFromTimeSpan Library - Complete Documentation
+# DateFromTimeSpan Library Documentation
 
 ## Table of Contents
 
