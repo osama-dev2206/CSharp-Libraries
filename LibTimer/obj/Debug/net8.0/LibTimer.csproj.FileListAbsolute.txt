@@ -1,0 +1,12 @@
+D:\Self-Study\C#\16- C# OOP\LibTimer\bin\Debug\net8.0\LibTimer.deps.json
+D:\Self-Study\C#\16- C# OOP\LibTimer\bin\Debug\net8.0\LibTimer.dll
+D:\Self-Study\C#\16- C# OOP\LibTimer\bin\Debug\net8.0\LibTimer.pdb
+D:\Self-Study\C#\16- C# OOP\LibTimer\obj\Debug\net8.0\LibTimer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self-Study\C#\16- C# OOP\LibTimer\obj\Debug\net8.0\LibTimer.AssemblyInfoInputs.cache
+D:\Self-Study\C#\16- C# OOP\LibTimer\obj\Debug\net8.0\LibTimer.AssemblyInfo.cs
+D:\Self-Study\C#\16- C# OOP\LibTimer\obj\Debug\net8.0\LibTimer.csproj.CoreCompileInputs.cache
+D:\Self-Study\C#\16- C# OOP\LibTimer\obj\Debug\net8.0\LibTimer.sourcelink.json
+D:\Self-Study\C#\16- C# OOP\LibTimer\obj\Debug\net8.0\LibTimer.dll
+D:\Self-Study\C#\16- C# OOP\LibTimer\obj\Debug\net8.0\refint\LibTimer.dll
+D:\Self-Study\C#\16- C# OOP\LibTimer\obj\Debug\net8.0\LibTimer.pdb
+D:\Self-Study\C#\16- C# OOP\LibTimer\obj\Debug\net8.0\ref\LibTimer.dll

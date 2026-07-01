@@ -1,0 +1,12 @@
+D:\Self-Study\C#\C# Libs\DateFromTimeSpan\bin\Debug\net8.0\DateFromTimeSpan.deps.json
+D:\Self-Study\C#\C# Libs\DateFromTimeSpan\bin\Debug\net8.0\DateFromTimeSpan.dll
+D:\Self-Study\C#\C# Libs\DateFromTimeSpan\bin\Debug\net8.0\DateFromTimeSpan.pdb
+D:\Self-Study\C#\C# Libs\DateFromTimeSpan\obj\Debug\net8.0\DateFromTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self-Study\C#\C# Libs\DateFromTimeSpan\obj\Debug\net8.0\DateFromTimeSpan.AssemblyInfoInputs.cache
+D:\Self-Study\C#\C# Libs\DateFromTimeSpan\obj\Debug\net8.0\DateFromTimeSpan.AssemblyInfo.cs
+D:\Self-Study\C#\C# Libs\DateFromTimeSpan\obj\Debug\net8.0\DateFromTimeSpan.csproj.CoreCompileInputs.cache
+D:\Self-Study\C#\C# Libs\DateFromTimeSpan\obj\Debug\net8.0\DateFromTimeSpan.sourcelink.json
+D:\Self-Study\C#\C# Libs\DateFromTimeSpan\obj\Debug\net8.0\DateFromTimeSpan.dll
+D:\Self-Study\C#\C# Libs\DateFromTimeSpan\obj\Debug\net8.0\refint\DateFromTimeSpan.dll
+D:\Self-Study\C#\C# Libs\DateFromTimeSpan\obj\Debug\net8.0\DateFromTimeSpan.pdb
+D:\Self-Study\C#\C# Libs\DateFromTimeSpan\obj\Debug\net8.0\ref\DateFromTimeSpan.dll
