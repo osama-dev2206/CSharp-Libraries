@@ -46,14 +46,6 @@ A lightweight timer library providing core timer functionality with hour, minute
 | DateFromTimeSpan | clsTimeSpanUtils.cs, clsTimeSpanUtils2.cs | clsTimeSpanUtils | Date/Time calculations and conversions |
 | LibTimer | clsTimerCore.cs, Icore.cs | clsTimerCore | Timer component management |
 
----
-
-## How to Use These Libraries
-
-1. Reference the respective .csproj files in your project
-2. Include the namespace: `using DateFromTimeSpan;` or `using LibTimer;`
-3. Access static methods (DateFromTimeSpan) or create instances (LibTimer)
-4. See individual documentation files for detailed API references
 
 ---
 
