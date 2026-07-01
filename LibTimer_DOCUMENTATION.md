@@ -1,4 +1,4 @@
-# LibTimer Library - Complete Documentation
+# LibTimer Library Documentation
 
 ## Table of Contents
 1. [Overview](#overview)
